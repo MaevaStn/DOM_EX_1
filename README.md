@@ -1,2 +1,3 @@
 # DOM_EX_1
-Exercice
+
+ Exercice : afficher l'enfant d'un objet du DOM
